@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "word-game-2",
+  "short_name": "word-game-2",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}

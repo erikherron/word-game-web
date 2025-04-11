@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.js": "/static/js/main.2410256e.js",
+    "main.js": "/static/js/main.fbc5a724.js",
     "static/js/325.c051cd3c.js": "/static/js/325.c051cd3c.js",
+    "static/media/german.txt": "/static/media/german.8075b60034b928751fce.txt",
+    "static/media/spanish.txt": "/static/media/spanish.0b9ac963df01d960460a.txt",
+    "static/media/french.txt": "/static/media/french.f6b12908e6f90c79593b.txt",
+    "static/media/english.txt": "/static/media/english.021c828a66c46edc1165.txt",
+    "static/media/turkish.txt": "/static/media/turkish.134dcd07552feb56dd90.txt",
+    "static/media/persian.txt": "/static/media/persian.cc610c0e0b1c3edcd6ad.txt",
     "favicon.ico": "/favicon.ico",
     "index.html": "/index.html",
     "favicon-32.png": "/favicon-32.png",
     "favicon-16.png": "/favicon-16.png",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "main.2410256e.js.map": "/static/js/main.2410256e.js.map",
+    "main.fbc5a724.js.map": "/static/js/main.fbc5a724.js.map",
     "325.c051cd3c.js.map": "/static/js/325.c051cd3c.js.map"
   },
   "entrypoints": [
     "static/js/325.c051cd3c.js",
-    "static/js/main.2410256e.js"
+    "static/js/main.fbc5a724.js"
   ]
 }
